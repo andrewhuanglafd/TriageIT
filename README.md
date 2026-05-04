@@ -86,7 +86,7 @@ python3 -m http.server 8765
 # Open http://127.0.0.1:8765/
 ```
 
-To host on **GitHub Pages**: enable Pages in your repo settings (Source: `main`, root directory). Site will be live at `https://<your-username>.github.io/<repo-name>/`.
+To host on **GitHub Pages**: enable Pages in your repo settings (Source: `main`, root directory). Site will be live at `https://andrewhuanglafd.github.io/TriageIT/`.
 
 For Classroom mode you'll need your own [Firebase Realtime Database](https://firebase.google.com/) project (the free Spark tier handles up to 100 concurrent connections — enough for one 50-student lobby with margin):
 
